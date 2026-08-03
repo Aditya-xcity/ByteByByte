@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0392-is-subsequence](https://github.com/Aditya-xcity/ByteByByte/tree/master/0392-is-subsequence) |
 | [0486-predict-the-winner](https://github.com/Aditya-xcity/ByteByByte/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Aditya-xcity/ByteByByte/tree/master/0877-stone-game) |
 | [1301-number-of-paths-with-max-score](https://github.com/Aditya-xcity/ByteByByte/tree/master/1301-number-of-paths-with-max-score) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0392-is-subsequence](https://github.com/Aditya-xcity/ByteByByte/tree/master/0392-is-subsequence) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Aditya-xcity/ByteByByte/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Aditya-xcity/ByteByByte/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Aditya-xcity/ByteByByte/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -211,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0392-is-subsequence](https://github.com/Aditya-xcity/ByteByByte/tree/master/0392-is-subsequence) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Aditya-xcity/ByteByByte/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Aditya-xcity/ByteByByte/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Bit Manipulation
