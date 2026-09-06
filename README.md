@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0115-distinct-subsequences](https://github.com/Aditya-xcity/ByteByByte/tree/master/0115-distinct-subsequences) |
 | [0392-is-subsequence](https://github.com/Aditya-xcity/ByteByByte/tree/master/0392-is-subsequence) |
 | [0486-predict-the-winner](https://github.com/Aditya-xcity/ByteByByte/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Aditya-xcity/ByteByByte/tree/master/0877-stone-game) |
@@ -203,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0115-distinct-subsequences](https://github.com/Aditya-xcity/ByteByByte/tree/master/0115-distinct-subsequences) |
 | [0392-is-subsequence](https://github.com/Aditya-xcity/ByteByByte/tree/master/0392-is-subsequence) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Aditya-xcity/ByteByByte/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Aditya-xcity/ByteByByte/tree/master/1358-number-of-substrings-containing-all-three-characters) |
